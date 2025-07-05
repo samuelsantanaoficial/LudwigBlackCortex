@@ -1,4 +1,4 @@
-# Ludwig Black Cortex
+# Ludwig Black Cortex.sfz
 
 1,68 GB de samples de áudio WAV, 24 bits, 44.100 Hz, de uma bateria Ludwig SuperClassic Black Cortex do final da década de 1970. Sete cascos de cinco camadas de bordo americano com uma camada central de choupo. Audios por; <a href="https://www.tchackpoum.com/" target="_blank">Tchackpoum</a>.
 
