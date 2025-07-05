@@ -1,4 +1,6 @@
 // Ludwing Black Cortex
+// https://github.com/samuelsantanaoficial/LudwigBlackCortex.git
+// https://www.tchackpoum.com/
 
 <global> loop_mode=one_shot amp_veltrack=75
 
@@ -14,3 +16,6 @@
 #include "Include/Racktom3_Center.sfz"
 #include "Include/Floortom1_Center.sfz"
 #include "Include/Floortom2_Center.sfz"
+#include "Include/Hihat_ClosedEdge.sfz"
+#include "Include/Hihat_Pedal.sfz"
+#include "Include/Hihat_OpenFullEdge.sfz"

@@ -1,0 +1,68 @@
+// === Articulação: Hihat_OpenFullEdge ===
+<master> seq_length=2 key=46
+
+// --- Mic: Hihat ---
+<group> off_by=1 seq_position=1 // Round-Robin: A
+<region> sample=Hihat_OpenFullEdge_A_vel01_mic-Hihat.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_A_vel02_mic-Hihat.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_A_vel03_mic-Hihat.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_A_vel04_mic-Hihat.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_A_vel05_mic-Hihat.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_A_vel06_mic-Hihat.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_A_vel07_mic-Hihat.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_A_vel08_mic-Hihat.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_A_vel09_mic-Hihat.wav lovel=112 hivel=127
+<group> off_by=1 seq_position=2 // Round-Robin: B
+<region> sample=Hihat_OpenFullEdge_B_vel01_mic-Hihat.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_B_vel02_mic-Hihat.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_B_vel03_mic-Hihat.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_B_vel04_mic-Hihat.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_B_vel05_mic-Hihat.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_B_vel06_mic-Hihat.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_B_vel07_mic-Hihat.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_B_vel08_mic-Hihat.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_B_vel09_mic-Hihat.wav lovel=112 hivel=127
+
+// --- Mic: Overhead_L ---
+<group> off_by=1 seq_position=1 // Round-Robin: A
+<region> sample=Hihat_OpenFullEdge_A_vel01_mic-Overhead_L.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_A_vel02_mic-Overhead_L.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_A_vel03_mic-Overhead_L.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_A_vel04_mic-Overhead_L.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_A_vel05_mic-Overhead_L.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_A_vel06_mic-Overhead_L.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_A_vel07_mic-Overhead_L.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_A_vel08_mic-Overhead_L.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_A_vel09_mic-Overhead_L.wav lovel=112 hivel=127
+<group> off_by=1 seq_position=2 // Round-Robin: B
+<region> sample=Hihat_OpenFullEdge_B_vel01_mic-Overhead_L.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_B_vel02_mic-Overhead_L.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_B_vel03_mic-Overhead_L.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_B_vel04_mic-Overhead_L.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_B_vel05_mic-Overhead_L.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_B_vel06_mic-Overhead_L.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_B_vel07_mic-Overhead_L.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_B_vel08_mic-Overhead_L.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_B_vel09_mic-Overhead_L.wav lovel=112 hivel=127
+
+// --- Mic: Overhead_R ---
+<group> off_by=1 seq_position=1 // Round-Robin: A
+<region> sample=Hihat_OpenFullEdge_A_vel01_mic-Overhead_R.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_A_vel02_mic-Overhead_R.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_A_vel03_mic-Overhead_R.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_A_vel04_mic-Overhead_R.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_A_vel05_mic-Overhead_R.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_A_vel06_mic-Overhead_R.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_A_vel07_mic-Overhead_R.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_A_vel08_mic-Overhead_R.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_A_vel09_mic-Overhead_R.wav lovel=112 hivel=127
+<group> off_by=1 seq_position=2 // Round-Robin: B
+<region> sample=Hihat_OpenFullEdge_B_vel01_mic-Overhead_R.wav lovel=0 hivel=13
+<region> sample=Hihat_OpenFullEdge_B_vel02_mic-Overhead_R.wav lovel=14 hivel=27
+<region> sample=Hihat_OpenFullEdge_B_vel03_mic-Overhead_R.wav lovel=28 hivel=41
+<region> sample=Hihat_OpenFullEdge_B_vel04_mic-Overhead_R.wav lovel=42 hivel=55
+<region> sample=Hihat_OpenFullEdge_B_vel05_mic-Overhead_R.wav lovel=56 hivel=69
+<region> sample=Hihat_OpenFullEdge_B_vel06_mic-Overhead_R.wav lovel=70 hivel=83
+<region> sample=Hihat_OpenFullEdge_B_vel07_mic-Overhead_R.wav lovel=84 hivel=97
+<region> sample=Hihat_OpenFullEdge_B_vel08_mic-Overhead_R.wav lovel=98 hivel=111
+<region> sample=Hihat_OpenFullEdge_B_vel09_mic-Overhead_R.wav lovel=112 hivel=127
