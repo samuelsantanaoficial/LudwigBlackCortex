@@ -1,0 +1,90 @@
+// === Articulação: Snare_Rimshot ===
+<master> seq_length=2 key=39
+
+// --- Mic: Overhead_L ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Snare_Rimshot_A_vel01_mic-Overhead_L.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_A_vel02_mic-Overhead_L.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_A_vel03_mic-Overhead_L.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_A_vel04_mic-Overhead_L.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_A_vel05_mic-Overhead_L.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_A_vel06_mic-Overhead_L.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_A_vel07_mic-Overhead_L.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_A_vel08_mic-Overhead_L.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_A_vel09_mic-Overhead_L.wav lovel=112 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Snare_Rimshot_B_vel01_mic-Overhead_L.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_B_vel02_mic-Overhead_L.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_B_vel03_mic-Overhead_L.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_B_vel04_mic-Overhead_L.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_B_vel05_mic-Overhead_L.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_B_vel06_mic-Overhead_L.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_B_vel07_mic-Overhead_L.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_B_vel08_mic-Overhead_L.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_B_vel09_mic-Overhead_L.wav lovel=112 hivel=127
+
+// --- Mic: Overhead_R ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Snare_Rimshot_A_vel01_mic-Overhead_R.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_A_vel02_mic-Overhead_R.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_A_vel03_mic-Overhead_R.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_A_vel04_mic-Overhead_R.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_A_vel05_mic-Overhead_R.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_A_vel06_mic-Overhead_R.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_A_vel07_mic-Overhead_R.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_A_vel08_mic-Overhead_R.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_A_vel09_mic-Overhead_R.wav lovel=112 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Snare_Rimshot_B_vel01_mic-Overhead_R.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_B_vel02_mic-Overhead_R.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_B_vel03_mic-Overhead_R.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_B_vel04_mic-Overhead_R.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_B_vel05_mic-Overhead_R.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_B_vel06_mic-Overhead_R.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_B_vel07_mic-Overhead_R.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_B_vel08_mic-Overhead_R.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_B_vel09_mic-Overhead_R.wav lovel=112 hivel=127
+
+// --- Mic: Sanre_Top ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Snare_Rimshot_A_vel01_mic-Sanre_Top.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_A_vel02_mic-Sanre_Top.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_A_vel03_mic-Sanre_Top.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_A_vel04_mic-Sanre_Top.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_A_vel05_mic-Sanre_Top.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_A_vel06_mic-Sanre_Top.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_A_vel07_mic-Sanre_Top.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_A_vel08_mic-Sanre_Top.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_A_vel09_mic-Sanre_Top.wav lovel=112 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Snare_Rimshot_B_vel01_mic-Sanre_Top.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_B_vel02_mic-Sanre_Top.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_B_vel03_mic-Sanre_Top.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_B_vel04_mic-Sanre_Top.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_B_vel05_mic-Sanre_Top.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_B_vel06_mic-Sanre_Top.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_B_vel07_mic-Sanre_Top.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_B_vel08_mic-Sanre_Top.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_B_vel09_mic-Sanre_Top.wav lovel=112 hivel=127
+
+// --- Mic: Snare_Bottom ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Snare_Rimshot_A_vel01_mic-Snare_Bottom.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_A_vel02_mic-Snare_Bottom.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_A_vel03_mic-Snare_Bottom.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_A_vel04_mic-Snare_Bottom.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_A_vel05_mic-Snare_Bottom.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_A_vel06_mic-Snare_Bottom.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_A_vel07_mic-Snare_Bottom.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_A_vel08_mic-Snare_Bottom.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_A_vel09_mic-Snare_Bottom.wav lovel=112 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Snare_Rimshot_B_vel01_mic-Snare_Bottom.wav lovel=0 hivel=13
+<region> sample=Snare_Rimshot_B_vel02_mic-Snare_Bottom.wav lovel=14 hivel=27
+<region> sample=Snare_Rimshot_B_vel03_mic-Snare_Bottom.wav lovel=28 hivel=41
+<region> sample=Snare_Rimshot_B_vel04_mic-Snare_Bottom.wav lovel=42 hivel=55
+<region> sample=Snare_Rimshot_B_vel05_mic-Snare_Bottom.wav lovel=56 hivel=69
+<region> sample=Snare_Rimshot_B_vel06_mic-Snare_Bottom.wav lovel=70 hivel=83
+<region> sample=Snare_Rimshot_B_vel07_mic-Snare_Bottom.wav lovel=84 hivel=97
+<region> sample=Snare_Rimshot_B_vel08_mic-Snare_Bottom.wav lovel=98 hivel=111
+<region> sample=Snare_Rimshot_B_vel09_mic-Snare_Bottom.wav lovel=112 hivel=127
