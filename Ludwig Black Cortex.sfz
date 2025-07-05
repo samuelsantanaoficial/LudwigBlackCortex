@@ -1,0 +1,16 @@
+// Ludwing Black Cortex
+
+<global> loop_mode=one_shot amp_veltrack=75
+
+<control> default_path=Samples/
+
+#include "Include/Kick_Open.sfz"
+#include "Include/Snare_Sidestick.sfz"
+#include "Include/Snare_Center.sfz"
+#include "Include/Snare_Rimshot.sfz"
+#include "Include/Snare_Edge.sfz"
+#include "Include/Racktom1_Center.sfz"
+#include "Include/Racktom2_Center.sfz"
+#include "Include/Racktom3_Center.sfz"
+#include "Include/Floortom1_Center.sfz"
+#include "Include/Floortom2_Center.sfz"
