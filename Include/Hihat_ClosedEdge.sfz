@@ -1,5 +1,5 @@
 // === Articulação: Hihat_ClosedEdge ===
-<master> seq_length=4 key=42
+<master> seq_length=4 key=$Hihat_ClosedEdge
 
 // --- Mic: Hihat ---
 <group> group=1 seq_position=1 // Round-Robin: A

@@ -1,5 +1,5 @@
 // === Articulação: Racktom2_Center ===
-<master> seq_length=2 key=48
+<master> seq_length=2 key=$Racktom2_Center
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

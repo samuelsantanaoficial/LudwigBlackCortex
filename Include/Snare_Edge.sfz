@@ -1,5 +1,5 @@
 // === Articulação: Snare_Edge ===
-<master> seq_length=4 key=40
+<master> seq_length=4 key=$Snare_Edge
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

@@ -6,10 +6,11 @@
 
 <control> default_path=Samples/
 
+#include "Midimap/General Midi.txt"
+
 #include "Include/Kick_Open.sfz"
 #include "Include/Snare_Sidestick.sfz"
 #include "Include/Snare_Center.sfz"
-#include "Include/Snare_Rimshot.sfz"
 #include "Include/Snare_Edge.sfz"
 #include "Include/Racktom1_Center.sfz"
 #include "Include/Racktom2_Center.sfz"

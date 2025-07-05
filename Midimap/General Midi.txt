@@ -1,0 +1,16 @@
+#define $Kick_Open 36
+
+#define $Snare_Sidestick 37
+#define $Snare_Center 38
+#define $Snare_Edge 40
+
+#define $Racktom1_Center 50
+#define $Racktom2_Center 48
+#define $Racktom3_Center 47
+
+#define $Floortom1_Center 45
+#define $Floortom2_Center 43
+
+#define $Hihat_ClosedEdge 42
+#define $Hihat_Pedal 44
+#define $Hihat_OpenFullEdge 46

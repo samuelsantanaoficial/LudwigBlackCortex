@@ -1,5 +1,5 @@
 // === Articulação: Hihat_Pedal ===
-<master> seq_length=2 key=44
+<master> seq_length=2 key=$Hihat_Pedal
 
 // --- Mic: Hihat ---
 <group> group=1 seq_position=1 // Round-Robin: A
