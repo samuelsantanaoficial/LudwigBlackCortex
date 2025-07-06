@@ -1,5 +1,7 @@
 # Ludwig Black Cortex.sfz
 
+## [DOWNLOAD](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases/tag/download)
+
 ![Screenshot](ui/screenshot.png)
 
 ## Sobre
