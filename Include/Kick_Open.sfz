@@ -1,5 +1,5 @@
 // === Articulação: Kick_Open ===
-<master> seq_length=2 key=$Kick_Open
+<master> seq_length=2 key=$Kick_Open tune_oncc26=512 tune_curvecc26=1
 
 // --- Mic: Kick_In ---
 <group> seq_position=1 // Round-Robin: A

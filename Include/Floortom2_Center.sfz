@@ -1,5 +1,5 @@
 // === Articulação: Floortom2_Center ===
-<master> seq_length=2 key=$Floortom2_Center
+<master> seq_length=2 key=$Floortom2_Center tune_oncc25=512 tune_curvecc25=1
 
 // --- Mic: Floortom_2 ---
 <group> seq_position=1 // Round-Robin: A
