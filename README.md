@@ -50,7 +50,7 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
     - [x] Sidestick
     - [x] Center
     - [x] Edge
-    - [x] Rimshot
+    - [ ] Rimshot
 - [x] Racktom 1
     - [x] Center
     - [ ] Edge
@@ -70,7 +70,13 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
     - [x] Closed Edge
     - [x] Pedal
     - [x] Open Edge
-- [ ] Ride
-- [ ] Crash 1
-- [ ] Crash 2
-- [ ] Crash 3
+- [x] Ride
+    - [x] Bow
+    - [x] Bell
+    - [x] Edge
+- [x] Crash 1
+    - [x] Edge
+- [x] Crash 2
+    - [x] Edge
+- [x] Crash 3
+    - [x] Edge
