@@ -11,14 +11,14 @@
 > Veja o vídeo demonstrativo [aqui](https://www.youtube.com/watch?v=KRnmregWpho).
 
 * Kick Ludwig Super Classic - 22"x14"
-* Snare Ludwig Super Classic - 13"x6,5"
+* Snare Ludwig Super Classic - 13"x6.5"
 * Racktoms Ludwig Super Classic 1 - 12"x8"
 * Racktom Ludwig Super Classic 2 - 13"x9"
 * Racktom Ludwig Super Classic 3 - 14"x10"
 * Floortom Ludwig Super Classic 1 - 16"x16"
 * Floortom Ludwig Super Classic 2 - 18"x18"
 * Hihat Cymbal Istanbul Agop Signature 13"
-* Ride Cymbal Istanbul Agop Singnature 22"
+* Ride Cymbal Istanbul Agop Signature 22"
 * Crash Cymbal 1 Sabian 14"
 * Crash Cymbal 2 Sabian 16"
 * Crash Cymbal 3 Istanbul Xist Ion Dark 19"
@@ -35,7 +35,7 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 - [ ] Controle de chimbal via MIDI CC#
 - [ ] Saídas (8 canais)
 - [x] Interface gráfica no sfizz
-    - [x] Wallpaper na aba Home [Designed by Natanaelginting / Freepik](http://www.freepik.com)
+    - [x] Wallpaper na aba Home [Designed by Natanaelginting / Freepik](https://www.freepik.com/author/natanaelginting)
     - [x] Wallpaper na aba Controls
     - [x] Botões giratórios (Knobs)
         - [x] Volume
