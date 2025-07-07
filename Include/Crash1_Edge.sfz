@@ -1,0 +1,66 @@
+// === Articulação: Crash1_Edge ===
+<master> seq_length=2 key=$Crash1_Edge
+
+// --- Mic: Overhead_L ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Crash1_Edge_A_vel01_mic-Overhead_L.wav lovel=0 hivel=8
+<region> sample=Crash1_Edge_A_vel02_mic-Overhead_L.wav lovel=9 hivel=17
+<region> sample=Crash1_Edge_A_vel03_mic-Overhead_L.wav lovel=18 hivel=26
+<region> sample=Crash1_Edge_A_vel04_mic-Overhead_L.wav lovel=27 hivel=35
+<region> sample=Crash1_Edge_A_vel05_mic-Overhead_L.wav lovel=36 hivel=44
+<region> sample=Crash1_Edge_A_vel06_mic-Overhead_L.wav lovel=45 hivel=53
+<region> sample=Crash1_Edge_A_vel07_mic-Overhead_L.wav lovel=54 hivel=62
+<region> sample=Crash1_Edge_A_vel08_mic-Overhead_L.wav lovel=63 hivel=71
+<region> sample=Crash1_Edge_A_vel09_mic-Overhead_L.wav lovel=72 hivel=80
+<region> sample=Crash1_Edge_A_vel10_mic-Overhead_L.wav lovel=81 hivel=89
+<region> sample=Crash1_Edge_A_vel11_mic-Overhead_L.wav lovel=90 hivel=98
+<region> sample=Crash1_Edge_A_vel12_mic-Overhead_L.wav lovel=99 hivel=107
+<region> sample=Crash1_Edge_A_vel13_mic-Overhead_L.wav lovel=108 hivel=116
+<region> sample=Crash1_Edge_A_vel14_mic-Overhead_L.wav lovel=117 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Crash1_Edge_B_vel01_mic-Overhead_L.wav lovel=0 hivel=8
+<region> sample=Crash1_Edge_B_vel02_mic-Overhead_L.wav lovel=9 hivel=17
+<region> sample=Crash1_Edge_B_vel03_mic-Overhead_L.wav lovel=18 hivel=26
+<region> sample=Crash1_Edge_B_vel04_mic-Overhead_L.wav lovel=27 hivel=35
+<region> sample=Crash1_Edge_B_vel05_mic-Overhead_L.wav lovel=36 hivel=44
+<region> sample=Crash1_Edge_B_vel06_mic-Overhead_L.wav lovel=45 hivel=53
+<region> sample=Crash1_Edge_B_vel07_mic-Overhead_L.wav lovel=54 hivel=62
+<region> sample=Crash1_Edge_B_vel08_mic-Overhead_L.wav lovel=63 hivel=71
+<region> sample=Crash1_Edge_B_vel09_mic-Overhead_L.wav lovel=72 hivel=80
+<region> sample=Crash1_Edge_B_vel10_mic-Overhead_L.wav lovel=81 hivel=89
+<region> sample=Crash1_Edge_B_vel11_mic-Overhead_L.wav lovel=90 hivel=98
+<region> sample=Crash1_Edge_B_vel12_mic-Overhead_L.wav lovel=99 hivel=107
+<region> sample=Crash1_Edge_B_vel13_mic-Overhead_L.wav lovel=108 hivel=116
+<region> sample=Crash1_Edge_B_vel14_mic-Overhead_L.wav lovel=117 hivel=127
+
+// --- Mic: Overhead_R ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Crash1_Edge_A_vel01_mic-Overhead_R.wav lovel=0 hivel=8
+<region> sample=Crash1_Edge_A_vel02_mic-Overhead_R.wav lovel=9 hivel=17
+<region> sample=Crash1_Edge_A_vel03_mic-Overhead_R.wav lovel=18 hivel=26
+<region> sample=Crash1_Edge_A_vel04_mic-Overhead_R.wav lovel=27 hivel=35
+<region> sample=Crash1_Edge_A_vel05_mic-Overhead_R.wav lovel=36 hivel=44
+<region> sample=Crash1_Edge_A_vel06_mic-Overhead_R.wav lovel=45 hivel=53
+<region> sample=Crash1_Edge_A_vel07_mic-Overhead_R.wav lovel=54 hivel=62
+<region> sample=Crash1_Edge_A_vel08_mic-Overhead_R.wav lovel=63 hivel=71
+<region> sample=Crash1_Edge_A_vel09_mic-Overhead_R.wav lovel=72 hivel=80
+<region> sample=Crash1_Edge_A_vel10_mic-Overhead_R.wav lovel=81 hivel=89
+<region> sample=Crash1_Edge_A_vel11_mic-Overhead_R.wav lovel=90 hivel=98
+<region> sample=Crash1_Edge_A_vel12_mic-Overhead_R.wav lovel=99 hivel=107
+<region> sample=Crash1_Edge_A_vel13_mic-Overhead_R.wav lovel=108 hivel=116
+<region> sample=Crash1_Edge_A_vel14_mic-Overhead_R.wav lovel=117 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Crash1_Edge_B_vel01_mic-Overhead_R.wav lovel=0 hivel=8
+<region> sample=Crash1_Edge_B_vel02_mic-Overhead_R.wav lovel=9 hivel=17
+<region> sample=Crash1_Edge_B_vel03_mic-Overhead_R.wav lovel=18 hivel=26
+<region> sample=Crash1_Edge_B_vel04_mic-Overhead_R.wav lovel=27 hivel=35
+<region> sample=Crash1_Edge_B_vel05_mic-Overhead_R.wav lovel=36 hivel=44
+<region> sample=Crash1_Edge_B_vel06_mic-Overhead_R.wav lovel=45 hivel=53
+<region> sample=Crash1_Edge_B_vel07_mic-Overhead_R.wav lovel=54 hivel=62
+<region> sample=Crash1_Edge_B_vel08_mic-Overhead_R.wav lovel=63 hivel=71
+<region> sample=Crash1_Edge_B_vel09_mic-Overhead_R.wav lovel=72 hivel=80
+<region> sample=Crash1_Edge_B_vel10_mic-Overhead_R.wav lovel=81 hivel=89
+<region> sample=Crash1_Edge_B_vel11_mic-Overhead_R.wav lovel=90 hivel=98
+<region> sample=Crash1_Edge_B_vel12_mic-Overhead_R.wav lovel=99 hivel=107
+<region> sample=Crash1_Edge_B_vel13_mic-Overhead_R.wav lovel=108 hivel=116
+<region> sample=Crash1_Edge_B_vel14_mic-Overhead_R.wav lovel=117 hivel=127

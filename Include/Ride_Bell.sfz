@@ -1,0 +1,38 @@
+// === Articulação: Ride_Bell ===
+<master> seq_length=2 key=$Ride_Bell
+
+// --- Mic: Overhead_L ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Ride_Bell_A_vel01_mic-Overhead_L.wav lovel=0 hivel=17
+<region> sample=Ride_Bell_A_vel02_mic-Overhead_L.wav lovel=18 hivel=35
+<region> sample=Ride_Bell_A_vel03_mic-Overhead_L.wav lovel=36 hivel=53
+<region> sample=Ride_Bell_A_vel04_mic-Overhead_L.wav lovel=54 hivel=71
+<region> sample=Ride_Bell_A_vel05_mic-Overhead_L.wav lovel=72 hivel=89
+<region> sample=Ride_Bell_A_vel06_mic-Overhead_L.wav lovel=90 hivel=107
+<region> sample=Ride_Bell_A_vel07_mic-Overhead_L.wav lovel=108 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Ride_Bell_B_vel01_mic-Overhead_L.wav lovel=0 hivel=17
+<region> sample=Ride_Bell_B_vel02_mic-Overhead_L.wav lovel=18 hivel=35
+<region> sample=Ride_Bell_B_vel03_mic-Overhead_L.wav lovel=36 hivel=53
+<region> sample=Ride_Bell_B_vel04_mic-Overhead_L.wav lovel=54 hivel=71
+<region> sample=Ride_Bell_B_vel05_mic-Overhead_L.wav lovel=72 hivel=89
+<region> sample=Ride_Bell_B_vel06_mic-Overhead_L.wav lovel=90 hivel=107
+<region> sample=Ride_Bell_B_vel07_mic-Overhead_L.wav lovel=108 hivel=127
+
+// --- Mic: Overhead_R ---
+<group> seq_position=1 // Round-Robin: A
+<region> sample=Ride_Bell_A_vel01_mic-Overhead_R.wav lovel=0 hivel=17
+<region> sample=Ride_Bell_A_vel02_mic-Overhead_R.wav lovel=18 hivel=35
+<region> sample=Ride_Bell_A_vel03_mic-Overhead_R.wav lovel=36 hivel=53
+<region> sample=Ride_Bell_A_vel04_mic-Overhead_R.wav lovel=54 hivel=71
+<region> sample=Ride_Bell_A_vel05_mic-Overhead_R.wav lovel=72 hivel=89
+<region> sample=Ride_Bell_A_vel06_mic-Overhead_R.wav lovel=90 hivel=107
+<region> sample=Ride_Bell_A_vel07_mic-Overhead_R.wav lovel=108 hivel=127
+<group> seq_position=2 // Round-Robin: B
+<region> sample=Ride_Bell_B_vel01_mic-Overhead_R.wav lovel=0 hivel=17
+<region> sample=Ride_Bell_B_vel02_mic-Overhead_R.wav lovel=18 hivel=35
+<region> sample=Ride_Bell_B_vel03_mic-Overhead_R.wav lovel=36 hivel=53
+<region> sample=Ride_Bell_B_vel04_mic-Overhead_R.wav lovel=54 hivel=71
+<region> sample=Ride_Bell_B_vel05_mic-Overhead_R.wav lovel=72 hivel=89
+<region> sample=Ride_Bell_B_vel06_mic-Overhead_R.wav lovel=90 hivel=107
+<region> sample=Ride_Bell_B_vel07_mic-Overhead_R.wav lovel=108 hivel=127

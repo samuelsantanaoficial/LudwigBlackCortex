@@ -14,3 +14,11 @@
 #define $Hihat_ClosedEdge 42
 #define $Hihat_Pedal 44
 #define $Hihat_OpenFullEdge 46
+
+#define $Ride_Bow 51
+#define $Ride_Bell 53
+#define $Ride_Edge 59
+
+#define $Crash1_Edge 49
+#define $Crash2_Edge 57
+#define $Crash3_Edge 55
