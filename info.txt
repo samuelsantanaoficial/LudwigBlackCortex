@@ -13,7 +13,7 @@ https://github.com/samuelsantanaoficial/LudwigBlackCortex.git
 * Crash Cymbal 2 Sabian 16"
 * Crash Cymbal 3 Istanbul Xist Ion Dark 19"
 
-/LudwigBlackCortex/
+/Ludwig Black Cortex/
 │
 ├── LudwigBlackCortex.sfz
 │
