@@ -1,0 +1,37 @@
+https://github.com/samuelsantanaoficial/LudwigBlackCortex.git
+
+* Kick Ludwig Super Classic - 22"x14"
+* Snare Ludwig Super Classic - 13"x6.5"
+* Racktoms Ludwig Super Classic 1 - 12"x8"
+* Racktom Ludwig Super Classic 2 - 13"x9"
+* Racktom Ludwig Super Classic 3 - 14"x10"
+* Floortom Ludwig Super Classic 1 - 16"x16"
+* Floortom Ludwig Super Classic 2 - 18"x18"
+* Hihat Cymbal Istanbul Agop Signature 13"
+* Ride Cymbal Istanbul Agop Signature 22"
+* Crash Cymbal 1 Sabian 14"
+* Crash Cymbal 2 Sabian 16"
+* Crash Cymbal 3 Istanbul Xist Ion Dark 19"
+
+/LudwigBlackCortex/
+│
+├── LudwigBlackCortex.sfz
+│
+├── Samples/
+│   ├── Crash1_Edge_A_vel01_mic-Overhead_L.wav
+|   ├── Crash1_Edge_A_vel01_mic-Overhead_R.wav
+|   ├── Crash1_Edge_A_vel02_mic-Overhead_L.wav
+│   └── ...
+│
+├── Include/
+│   ├── Kick_Open.sfz
+│   ├── Snare_Center.sfz
+│   └── ...
+│
+├── Midimap/
+│   ├── General Midi.txt
+|   └── ...
+│
+└── ui/
+    ├── background.png
+    └── controls.png
