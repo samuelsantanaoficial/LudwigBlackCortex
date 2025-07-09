@@ -27,21 +27,22 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 
 ## Características
 
-- [x] Round Robins (variações alternadas)
-- [x] Mapeamento MIDI
+- [x] Round Robins (variações alternadas) `seq_length=N` & `seq_position=N`
+- [x] Mapeamento MIDI `#include "Midimap/General Midi.txt"`
     - [x] General MIDI
     - [ ] Superior Drummer
     - [ ] BFD3
 - [ ] Controle de chimbal via MIDI CC#
-- [ ] Saídas (8 canais)
+- [x] Pré Mixagem `amplitude=N`
+- [ ] Saídas (8 canais) `output=N`
 - [x] Interface gráfica no sfizz
     - [x] Wallpaper na aba Home [Designed by Natanaelginting / Freepik](https://www.freepik.com/author/natanaelginting)
     - [x] Wallpaper na aba Controls
-    - [x] Botões giratórios (Knobs)
+    - [x] Botões giratórios (Knobs) `label_ccN=Tune (...)`
         - [x] Volume
         - [x] Pan (panorama)
         - [x] Expressão
-        - [x] Afinação (Kick, Snare, Toms)
+        - [x] Afinação (Kick, Snare, Toms) `tune_onccN=512`
 
 ## Kit e Articulações
 - [x] Kick
@@ -50,22 +51,17 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
     - [x] Sidestick
     - [x] Center
     - [x] Edge
-    - [ ] Rimshot
 - [x] Racktom 1
     - [x] Center
-    - [ ] Edge
 - [x] Racktom 2
     - [x] Center
-    - [ ] Edge
 - [x] Racktom 3
     - [x] Center
     - [ ] Edge
 - [x] Floortom 1
     - [x] Center
-    - [ ] Edge
 - [x] Floortom 2
     - [x] Center
-    - [ ] Edge
 - [x] Hihat
     - [x] Closed Edge
     - [x] Pedal
