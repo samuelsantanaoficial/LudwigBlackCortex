@@ -22,3 +22,27 @@
 #define $Crash1_Edge 49
 #define $Crash2_Edge 57
 #define $Crash3_Edge 55
+
+label_key36=Kick Open
+
+label_key37=Sidestick
+label_key38=Snare Center
+label_key40=Snare Edge
+
+label_key42=Hihat CLosed Edge
+label_key44=Hihat Pedal
+label_key46=Hihat Open Edge
+
+label_key50=Racktom 1 Center
+label_key48=Racktom 2 Center
+label_key47=Racktom 3 Center
+label_key45=Floortom 1 Center
+label_key43=Floortom 2 Center
+
+label_key49=Crash 1 Edge
+label_key57=Crash 2 Edge
+label_key55=Crash 3 Edge
+
+label_key51=Ride Bow
+label_key53=Ride Bell
+label_key59=Ride Edge

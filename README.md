@@ -2,7 +2,8 @@
 
 ## [DOWNLOAD](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases)
 
-![Screenshot](ui/screenshot.png)
+![Screenshot](ui/screenshot_home.png)
+![Screenshot](ui/screenshot_controls.png)
 
 ## Sobre
 
@@ -43,6 +44,31 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
         - [x] Pan (panorama)
         - [x] Expressão
         - [x] Afinação (Kick, Snare, Toms) `tune_onccN=512`
+
+## Estrutura de pastas
+```
+/LudwigBlackCortex/
+│
+├── LudwigBlackCortex.sfz
+│
+├── Samples/
+│   ├── Crash1_Edge_A_vel01_mic-Overhead_L.wav
+|   ├── Crash1_Edge_A_vel01_mic-Overhead_R.wav
+|   ├── Crash1_Edge_A_vel02_mic-Overhead_L.wav
+│   └── ...
+│
+├── Include/
+│   ├── Kick_Open.sfz
+│   ├── Snare_Center.sfz
+│   └── ...
+│
+├── Midimap/
+│   └── General Midi.txt
+│
+└── ui/
+    ├── background.png
+    └── controls.png
+```
 
 ## Kit e Articulações
 - [x] Kick

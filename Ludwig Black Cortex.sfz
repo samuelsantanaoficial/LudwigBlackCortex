@@ -24,9 +24,10 @@ set_cc25=64
 set_cc26=64
 set_cc27=64
 
-<global> loop_mode=one_shot amp_veltrack=75
-
 #include "Midimap/General Midi.txt"
+
+<global> loop_mode=one_shot amp_veltrack=25
+
 
 #include "Include/Kick_Open.sfz"
 #include "Include/Snare_Sidestick.sfz"
