@@ -37,7 +37,7 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 - [x] Pré Mixagem `amplitude=N`
 - [ ] Saídas (8 canais) `output=N`
 - [x] Interface gráfica no sfizz
-    - [x] Wallpaper na aba Home [Designed by Natanaelginting / Freepik](https://www.freepik.com/author/natanaelginting)
+    - [x] Wallpaper na aba Home
     - [x] Wallpaper na aba Controls
     - [x] Botões giratórios (Knobs) `label_ccN=Tune (...)`
         - [x] Volume
