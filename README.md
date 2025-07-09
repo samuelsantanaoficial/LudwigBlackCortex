@@ -1,9 +1,6 @@
 # Ludwig Black Cortex.sfz
 
-## [DOWNLOAD](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases)
-
-![Screenshot](ui/screenshot_home.png)
-![Screenshot](ui/screenshot_controls.png)
+## BAIXE [AQUI](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases)
 
 ## Sobre
 
@@ -11,18 +8,20 @@
 
 > Veja o vídeo demonstrativo [aqui](https://www.youtube.com/watch?v=KRnmregWpho).
 
-* Kick Ludwig Super Classic - 22"x14"
-* Snare Ludwig Super Classic - 13"x6.5"
-* Racktoms Ludwig Super Classic 1 - 12"x8"
-* Racktom Ludwig Super Classic 2 - 13"x9"
-* Racktom Ludwig Super Classic 3 - 14"x10"
-* Floortom Ludwig Super Classic 1 - 16"x16"
-* Floortom Ludwig Super Classic 2 - 18"x18"
-* Hihat Cymbal Istanbul Agop Signature 13"
-* Ride Cymbal Istanbul Agop Signature 22"
-* Crash Cymbal 1 Sabian 14"
-* Crash Cymbal 2 Sabian 16"
-* Crash Cymbal 3 Istanbul Xist Ion Dark 19"
+| Peça           | Marca                   | Tamanho  |
+|:-------------- |:----------------------- |:-------- |
+| Kick           | Ludwig Super Classic    | 22"x14"  |
+| Snare          | Ludwig Super Classic    | 13"x6.5" |
+| Racktom 1      | Ludwig Super Classic    | 12"x8"   |
+| Racktom 2      | Ludwig Super Classic    | 13"x9"   |
+| Racktom 3      | Ludwig Super Classic    | 14"x10"  |
+| Floortom 1     | Ludwig Super Classic    | 16"x16"  |
+| Floortom 2     | Ludwig Super Classic    | 18"x18"  |
+| Hihat Cymbal   | Istanbul Agop Signature | 13"      |
+| Ride Cymbal    | Istanbul Agop Signature | 22"      |
+| Crash Cymbal 1 | Sabian                  | 14"      |
+| Crash Cymbal 2 | Sabian                  | 16"      |
+| Crash Cymbal 3 | Istanbul Xist Ion Dark  | 19"      |
 
 Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm), com interface de áudio RME Fireface 802, prés da Audient e microfones da Electro Voice, Beyerdynamic, Sennheiser e AKG.
 
@@ -44,61 +43,3 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
         - [x] Pan (panorama)
         - [x] Expressão
         - [x] Afinação (Kick, Snare, Toms) `tune_onccN=512`
-
-## Estrutura de pastas
-```
-/LudwigBlackCortex/
-│
-├── LudwigBlackCortex.sfz
-│
-├── Samples/
-│   ├── Crash1_Edge_A_vel01_mic-Overhead_L.wav
-|   ├── Crash1_Edge_A_vel01_mic-Overhead_R.wav
-|   ├── Crash1_Edge_A_vel02_mic-Overhead_L.wav
-│   └── ...
-│
-├── Include/
-│   ├── Kick_Open.sfz
-│   ├── Snare_Center.sfz
-│   └── ...
-│
-├── Midimap/
-│   └── General Midi.txt
-│
-└── ui/
-    ├── background.png
-    └── controls.png
-```
-
-## Kit e Articulações
-- [x] Kick
-    - [x] Center
-- [x] Snare
-    - [x] Sidestick
-    - [x] Center
-    - [x] Edge
-- [x] Racktom 1
-    - [x] Center
-- [x] Racktom 2
-    - [x] Center
-- [x] Racktom 3
-    - [x] Center
-    - [ ] Edge
-- [x] Floortom 1
-    - [x] Center
-- [x] Floortom 2
-    - [x] Center
-- [x] Hihat
-    - [x] Closed Edge
-    - [x] Pedal
-    - [x] Open Edge
-- [x] Ride
-    - [x] Bow
-    - [x] Bell
-    - [x] Edge
-- [x] Crash 1
-    - [x] Edge
-- [x] Crash 2
-    - [x] Edge
-- [x] Crash 3
-    - [x] Edge
