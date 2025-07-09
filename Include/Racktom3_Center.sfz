@@ -1,5 +1,5 @@
 // === Articulação: Racktom3_Center ===
-<master> seq_length=2 key=$Racktom3_Center tune_oncc23=512 tune_curvecc23=1
+<master> seq_length=2 key=$Racktom3_Center tune_oncc23=512 tune_curvecc23=1 amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

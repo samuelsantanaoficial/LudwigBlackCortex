@@ -1,5 +1,5 @@
 // === Articulação: Ride_Edge ===
-<master> seq_length=2 key=$Ride_Edge
+<master> seq_length=2 key=$Ride_Edge amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A
