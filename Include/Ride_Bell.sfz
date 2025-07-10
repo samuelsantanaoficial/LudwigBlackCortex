@@ -1,5 +1,4 @@
 // === Articulação: Ride_Bell ===
-<master> seq_length=2 key=$Ride_Bell amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

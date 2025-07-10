@@ -28,22 +28,56 @@ set_cc27=64
 
 <global> loop_mode=one_shot amp_veltrack=25
 
-
+<master> seq_length=2 key=$Kick_Open amplitude=100 tune_oncc26=512 tune_curvecc26=1
 #include "Include/Kick_Open.sfz"
+
+<master> seq_length=2 key=$Snare_Sidestick amplitude=75
 #include "Include/Snare_Sidestick.sfz"
+
+<master> seq_length=4 key=$Snare_Center amplitude=100 tune_oncc27=512 tune_curvecc27=1
 #include "Include/Snare_Center.sfz"
+
+<master> seq_length=4 key=$Snare_Edge amplitude=100 tune_oncc27=512 tune_curvecc27=1
 #include "Include/Snare_Edge.sfz"
+
+<master> seq_length=4 key=$Racktom1_Center amplitude=100 tune_oncc21=512 tune_curvecc21=1
 #include "Include/Racktom1_Center.sfz"
+
+<master> seq_length=2 key=$Racktom2_Center amplitude=100 tune_oncc22=512 tune_curvecc22=1
 #include "Include/Racktom2_Center.sfz"
+
+<master> seq_length=2 key=$Racktom3_Center amplitude=100 tune_oncc23=512 tune_curvecc23=1
 #include "Include/Racktom3_Center.sfz"
+
+<master> seq_length=2 key=$Floortom1_Center amplitude=100 tune_oncc24=512 tune_curvecc24=1
 #include "Include/Floortom1_Center.sfz"
+
+<master> seq_length=2 key=$Floortom2_Center amplitude=100 tune_oncc25=512 tune_curvecc25=1
 #include "Include/Floortom2_Center.sfz"
+
+<master> seq_length=4 key=$Hihat_ClosedEdge amplitude=100
 #include "Include/Hihat_ClosedEdge.sfz"
+
+<master> seq_length=2 key=$Hihat_Pedal amplitude=100
 #include "Include/Hihat_Pedal.sfz"
+
+<master> seq_length=2 key=$Hihat_OpenFullEdge amplitude=100
 #include "Include/Hihat_OpenFullEdge.sfz"
+
+<master> seq_length=4 key=$Ride_Bow amplitude=100
 #include "Include/Ride_Bow.sfz"
+
+<master> seq_length=2 key=$Ride_Bell amplitude=100
 #include "Include/Ride_Bell.sfz"
+
+<master> seq_length=2 key=$Ride_Edge amplitude=100
 #include "Include/Ride_Edge.sfz"
+
+<master> seq_length=2 key=$Crash1_Edge amplitude=40
 #include "Include/Crash1_Edge.sfz"
+
+<master> seq_length=2 key=$Crash2_Edge amplitude=30
 #include "Include/Crash2_Edge.sfz"
+
+<master> seq_length=2 key=$Crash3_Edge amplitude=100
 #include "Include/Crash3_Edge.sfz"

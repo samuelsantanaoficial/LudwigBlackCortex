@@ -1,5 +1,4 @@
 // === Articulação: Racktom1_Center ===
-<master> seq_length=4 key=$Racktom1_Center tune_oncc21=512 tune_curvecc21=1 amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A
