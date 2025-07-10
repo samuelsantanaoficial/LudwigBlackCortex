@@ -8,19 +8,19 @@
 
 > Veja o vídeo demonstrativo [aqui](https://www.youtube.com/watch?v=KRnmregWpho).
 
-| Instrumento    | Marca                   | Tamanho  | Articulação |
-|:-------------- |:----------------------- |:-------- | ----------- |
-| Kick           | Ludwig Super Classic    | 22"x14"  | Open        |
-| Snare          | Ludwig Super Classic    | 13"x6.5" | Sidestick, Center, Edge, Rimshot |
-| Racktom 2      | Ludwig Super Classic    | 13"x9"   | Center      |
-| Racktom 3      | Ludwig Super Classic    | 14"x10"  | Center      |
-| Floortom 1     | Ludwig Super Classic    | 16"x16"  | Center      |
-| Floortom 2     | Ludwig Super Classic    | 18"x18"  | Center      |
-| Hihat Cymbal   | Istanbul Agop Signature | 13"      | Closed Edge, Open Edge, Pedal |
-| Ride Cymbal    | Istanbul Agop Signature | 22"      | Bow, Bell, Edge |
-| Crash Cymbal 1 | Sabian                  | 14"      | Edge        |
-| Crash Cymbal 2 | Sabian                  | 16"      | Edge        |
-| Crash Cymbal 3 | Istanbul Xist Ion Dark  | 19"      | Edge        |
+| Instrumento    | Marca                   | Tamanho  |
+|:-------------- |:----------------------- |:-------- |
+| Kick           | Ludwig Super Classic    | 22"x14"  |
+| Snare          | Ludwig Super Classic    | 13"x6.5" |
+| Racktom 2      | Ludwig Super Classic    | 13"x9"   |
+| Racktom 3      | Ludwig Super Classic    | 14"x10"  |
+| Floortom 1     | Ludwig Super Classic    | 16"x16"  |
+| Floortom 2     | Ludwig Super Classic    | 18"x18"  |
+| Hihat Cymbal   | Istanbul Agop Signature | 13"      |
+| Ride Cymbal    | Istanbul Agop Signature | 22"      |
+| Crash Cymbal 1 | Sabian                  | 14"      |
+| Crash Cymbal 2 | Sabian                  | 16"      |
+| Crash Cymbal 3 | Istanbul Xist Ion Dark  | 19"      |
 
 Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm), com interface de áudio RME Fireface 802, prés da Audient e microfones da Electro Voice, Beyerdynamic, Sennheiser e AKG.
 
