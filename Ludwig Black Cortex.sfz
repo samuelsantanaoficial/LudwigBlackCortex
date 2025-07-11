@@ -53,7 +53,7 @@
 <master> seq_length=2 key=$hihatOpenFullEdge amplitude=100
 #include "Include/Hihat_OpenFullEdge.sfz"
 
-<master> seq_length=2 key=$hihatClosedBow amplitude=100
+<master> seq_length=4 key=$hihatClosedBow amplitude=100
 #include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=2 key=$hihatOpen0Bow amplitude=100
 #include "Include/Hihat_Open1Bow.sfz"
@@ -71,7 +71,7 @@
 <master> seq_length=4 key=$hihatClosedTightBow amplitude=100
 #include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=4 key=$hihatClosedTightEdge amplitude=100
-#include "Include/Hihat_ClosedBow.sfz"
+#include "Include/Hihat_ClosedEdge.sfz"
 <master> seq_length=4 key=$hihatClosedTip amplitude=100
 #include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=2 key=$hihatSplash amplitude=100
