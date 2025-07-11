@@ -54,26 +54,26 @@
 #include "Include/Hihat_OpenFullEdge.sfz"
 
 <master> seq_length=2 key=$hihatClosedBow amplitude=100
-#include "Include/Hihat_ClosedEdge.sfz"
+#include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=2 key=$hihatOpen0Bow amplitude=100
-#include "Include/Hihat_Open1Edge.sfz"
+#include "Include/Hihat_Open1Bow.sfz"
 <master> seq_length=2 key=$hihatOpen1Bow amplitude=100
-#include "Include/Hihat_Open1Edge.sfz"
+#include "Include/Hihat_Open1Bow.sfz"
 <master> seq_length=2 key=$hihatOpen2Bow amplitude=100
-#include "Include/Hihat_Open2Edge.sfz"
+#include "Include/Hihat_Open2Bow.sfz"
 <master> seq_length=2 key=$hihatOpen3Bow amplitude=100
-#include "Include/Hihat_Open3Edge.sfz"
+#include "Include/Hihat_Open3Bow.sfz"
 <master> seq_length=2 key=$hihatOpen4Bow amplitude=100
-#include "Include/Hihat_Open4Edge.sfz"
+#include "Include/Hihat_Open4Bow.sfz"
 <master> seq_length=2 key=$hihatOpenFullBow amplitude=100
-#include "Include/Hihat_OpenFullEdge.sfz"
+#include "Include/Hihat_OpenFullBow.sfz"
 
 <master> seq_length=4 key=$hihatClosedTightBow amplitude=100
-#include "Include/Hihat_ClosedEdge.sfz"
+#include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=4 key=$hihatClosedTightEdge amplitude=100
-#include "Include/Hihat_ClosedEdge.sfz"
+#include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=4 key=$hihatClosedTip amplitude=100
-#include "Include/Hihat_ClosedEdge.sfz"
+#include "Include/Hihat_ClosedBow.sfz"
 <master> seq_length=2 key=$hihatSplash amplitude=100
 #include "Include/Hihat_Splash.sfz"
 <master> seq_length=2 key=$hihatFoot1 amplitude=100
