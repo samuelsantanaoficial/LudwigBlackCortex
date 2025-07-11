@@ -49,11 +49,44 @@
 
 // CYMBALS
 #define $crash1Edge 49
-// #define $crash1Bow
-
 #define $crash2Edge 57
-// #define $crash2Bow
-
 #define $crash3Edge 55
-// #define $crash3Bow
 
+label_key11=Hihat Closed Bow
+label_key12=Hihat Open 1 Bow
+label_key13=Hihat Open 1 Bow
+label_key14=Hihat Open 2 Bow
+label_key15=Hihat Open 3 Bow
+label_key16=Hihat Open 4 Bow
+label_key17=Hihat Open Full Bow
+label_key20=Hihat Splash
+label_key21=Hihat Pedal
+label_key23=Hihat Pedal
+label_key24=Hihat Open 1 Edge
+label_key25=Hihat Open 2 Edge
+label_key26=Hihat Open 3 Edge
+label_key33=Snare Edge
+label_key35=Kick Open
+label_key36=Kick Open
+label_key37=Snare Sidestick
+label_key38=Snare Center
+label_key40=Snare Rimshot
+label_key41=Floortom 2 Center
+label_key42=Hihat Closed Edge
+label_key43=Floortom 1 Center
+label_key44=Hihat Pedal
+label_key45=Racktom 3 Center
+label_key46=Hihat Open Full Edge
+label_key47=Racktom 2 Center
+label_key48=Racktom 1 Center
+label_key49=Crash 1 Edge
+label_key51=Ride Bow
+label_key53=Ride Bell
+label_key55=Crash 3 Edge
+label_key57=Crash 2 Edge
+label_key59=Ride Edge
+label_key60=Hihat Open 4 Edge
+label_key61=Hihat Closed Edge
+label_key62=Hihat Closed Edge
+label_key63=Hihat Closed Edge
+label_key64=Hihat Open 1 Edge
