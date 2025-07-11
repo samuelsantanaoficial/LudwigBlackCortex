@@ -1,5 +1,4 @@
 // === Articulação: Ride_Bow ===
-<master> seq_length=4 key=$Ride_Bow amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

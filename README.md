@@ -8,11 +8,10 @@
 
 > Veja o vídeo demonstrativo [aqui](https://www.youtube.com/watch?v=KRnmregWpho).
 
-| Peça           | Marca                   | Tamanho  |
+| Instrumento    | Marca                   | Tamanho  |
 |:-------------- |:----------------------- |:-------- |
 | Kick           | Ludwig Super Classic    | 22"x14"  |
 | Snare          | Ludwig Super Classic    | 13"x6.5" |
-| Racktom 1      | Ludwig Super Classic    | 12"x8"   |
 | Racktom 2      | Ludwig Super Classic    | 13"x9"   |
 | Racktom 3      | Ludwig Super Classic    | 14"x10"  |
 | Floortom 1     | Ludwig Super Classic    | 16"x16"  |
@@ -29,9 +28,8 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 
 - [x] Round Robins (variações alternadas) `seq_length=N` & `seq_position=N`
 - [x] Mapeamento MIDI `#include "Midimap/General Midi.txt"`
-    - [x] General MIDI
-    - [ ] Superior Drummer
-    - [ ] BFD3
+    - [x] SD3 *(Superior Drummer 3)*
+    - [ ] General MIDI
 - [ ] Controle de chimbal via MIDI CC#
 - [x] Pré Mixagem `amplitude=N`
 - [ ] Saídas (8 canais) `output=N`

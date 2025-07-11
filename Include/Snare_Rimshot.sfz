@@ -1,5 +1,4 @@
 // === Articulação: Snare_Rimshot ===
-<master> seq_length=2 key=$Snare_Rimshot tune_oncc27=512 tune_curvecc27=1 amplitude=100
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A

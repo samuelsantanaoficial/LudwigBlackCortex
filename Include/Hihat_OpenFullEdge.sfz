@@ -1,5 +1,4 @@
 // === Articulação: Hihat_OpenFullEdge ===
-<master> seq_length=2 key=$Hihat_OpenFullEdge amplitude=100
 
 // --- Mic: Hihat ---
 <group> off_by=1 seq_position=1 // Round-Robin: A

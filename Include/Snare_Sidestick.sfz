@@ -1,5 +1,4 @@
 // === Articulação: Snare_Sidestick ===
-<master> seq_length=2 key=$Snare_Sidestick amplitude=75
 
 // --- Mic: Overhead_L ---
 <group> seq_position=1 // Round-Robin: A
