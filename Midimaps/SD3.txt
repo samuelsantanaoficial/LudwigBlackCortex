@@ -1,0 +1,59 @@
+// KICK
+#define $kickHit 35
+#define $kickOpen 36
+
+// SNARE
+#define $snareSidestick 37
+#define $snareCenter 38
+#define $snareRimshot 40
+#define $snareEdge 33
+
+// TOMS
+#define $racktom1Center 48
+#define $racktom2Center 47
+#define $racktom3Center 45
+#define $floortom1Center 43
+#define $floortom2Center 41
+
+// HIHAT
+
+#define $hihatClosedEdge 42
+#define $hihatPedal 44
+#define $hihatOpenFullEdge 46
+
+#define $hihatOpen0Edge 64
+#define $hihatOpen1Edge 24
+#define $hihatOpen2Edge 25
+#define $hihatOpen3Edge 26
+#define $hihatOpen4Edge 60
+
+#define $hihatClosedBow 11
+#define $hihatOpen0Bow 12
+#define $hihatOpen1Bow 13
+#define $hihatOpen2Bow 14
+#define $hihatOpen3Bow 15
+#define $hihatOpen4Bow 16
+#define $hihatOpenFullBow 17
+
+#define $hihatClosedTightBow 63
+#define $hihatClosedTightEdge 62
+#define $hihatClosedTip 61
+#define $hihatSplash 20
+#define $hihatFoot2 23
+#define $hihatFoot1 21
+
+// RIDE CYMBAL
+#define $rideBow 51
+#define $rideBell 53
+#define $rideEdge 59
+
+// CYMBALS
+#define $crash1Edge 49
+// #define $crash1Bow
+
+#define $crash2Edge 57
+// #define $crash2Bow
+
+#define $crash3Edge 55
+// #define $crash3Bow
+

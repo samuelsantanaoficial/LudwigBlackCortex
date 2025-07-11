@@ -1,83 +1,98 @@
 // Ludwing Black Cortex
 // https://github.com/samuelsantanaoficial/LudwigBlackCortex.git
-// https://www.tchackpoum.com/
+// Version: 1.1.0
 
 <control> image=ui/background.png image_controls=ui/controls.png default_path=Samples/
 
-label_cc7=Volume
-label_cc10=Pan
-label_cc11=Expression
+#include "Include/midi_CC.txt"
 
-label_cc21=Tune Racktom 1
-label_cc22=Tune Racktom 2
-label_cc23=Tune Racktom 3
-label_cc24=Tune Floortom 1
-label_cc25=Tune Floortom 2
-label_cc26=Tune Kick
-label_cc27=Tune Snare
-
-set_cc21=64
-set_cc22=64
-set_cc23=64
-set_cc24=64
-set_cc25=64
-set_cc26=64
-set_cc27=64
-
-#include "Midimap/General Midi.txt"
+#include "Midimaps/SD3.txt"
 
 <global> loop_mode=one_shot amp_veltrack=25
 
-<master> seq_length=2 key=$Kick_Open amplitude=100 tune_oncc26=512 tune_curvecc26=1
+<master> seq_length=2 key=$kickHit amplitude=100 tune_oncc26=512 tune_curvecc26=1
+#include "Include/Kick_Open.sfz"
+<master> seq_length=2 key=$kickOpen amplitude=100 tune_oncc26=512 tune_curvecc26=1
 #include "Include/Kick_Open.sfz"
 
-<master> seq_length=2 key=$Snare_Sidestick amplitude=75
+<master> seq_length=2 key=$snareSidestick amplitude=75
 #include "Include/Snare_Sidestick.sfz"
-
-<master> seq_length=4 key=$Snare_Center amplitude=100 tune_oncc27=512 tune_curvecc27=1
+<master> seq_length=4 key=$snareCenter amplitude=100 tune_oncc27=512 tune_curvecc27=1
 #include "Include/Snare_Center.sfz"
-
-<master> seq_length=4 key=$Snare_Edge amplitude=100 tune_oncc27=512 tune_curvecc27=1
+<master> seq_length=2 key=$snareRimshot amplitude=100 tune_oncc27=512 tune_curvecc27=1
+#include "Include/Snare_Rimshot.sfz"
+<master> seq_length=4 key=$snareEdge amplitude=100 tune_oncc27=512 tune_curvecc27=1
 #include "Include/Snare_Edge.sfz"
 
-<master> seq_length=4 key=$Racktom1_Center amplitude=100 tune_oncc21=512 tune_curvecc21=1
+<master> seq_length=4 key=$racktom1Center amplitude=100 tune_oncc21=512 tune_curvecc21=1
 #include "Include/Racktom1_Center.sfz"
-
-<master> seq_length=2 key=$Racktom2_Center amplitude=100 tune_oncc22=512 tune_curvecc22=1
+<master> seq_length=2 key=$racktom2Center amplitude=100 tune_oncc22=512 tune_curvecc22=1
 #include "Include/Racktom2_Center.sfz"
-
-<master> seq_length=2 key=$Racktom3_Center amplitude=100 tune_oncc23=512 tune_curvecc23=1
+<master> seq_length=2 key=$racktom3Center amplitude=100 tune_oncc23=512 tune_curvecc23=1
 #include "Include/Racktom3_Center.sfz"
-
-<master> seq_length=2 key=$Floortom1_Center amplitude=100 tune_oncc24=512 tune_curvecc24=1
+<master> seq_length=2 key=$floortom1Center amplitude=100 tune_oncc24=512 tune_curvecc24=1
 #include "Include/Floortom1_Center.sfz"
-
-<master> seq_length=2 key=$Floortom2_Center amplitude=100 tune_oncc25=512 tune_curvecc25=1
+<master> seq_length=2 key=$floortom2Center amplitude=100 tune_oncc25=512 tune_curvecc25=1
 #include "Include/Floortom2_Center.sfz"
 
-<master> seq_length=4 key=$Hihat_ClosedEdge amplitude=100
-#include "Include/Hihat_ClosedEdge.sfz"
-
-<master> seq_length=2 key=$Hihat_Pedal amplitude=100
+<master> seq_length=2 key=$hihatPedal amplitude=100
 #include "Include/Hihat_Pedal.sfz"
 
-<master> seq_length=2 key=$Hihat_OpenFullEdge amplitude=100
+<master> seq_length=4 key=$hihatClosedEdge amplitude=100
+#include "Include/Hihat_ClosedEdge.sfz"
+<master> seq_length=2 key=$hihatOpen0Edge amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=2 key=$hihatOpen1Edge amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=2 key=$hihatOpen2Edge amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=2 key=$hihatOpen3Edge amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=2 key=$hihatOpen4Edge amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=2 key=$hihatOpenFullEdge amplitude=100
 #include "Include/Hihat_OpenFullEdge.sfz"
 
-<master> seq_length=4 key=$Ride_Bow amplitude=100
+<master> seq_length=4 key=$hihatClosedBow amplitude=100
+#include "Include/Hihat_ClosedEdge.sfz"
+<master> seq_length=4 key=$hihatOpen0Bow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=4 key=$hihatOpen1Bow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=4 key=$hihatOpen2Bow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=4 key=$hihatOpen3Bow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=4 key=$hihatOpen4Bow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+<master> seq_length=4 key=$hihatOpenFullBow amplitude=100
+#include "Include/Hihat_OpenFullEdge.sfz"
+
+<master> seq_length=4 key=$hihatClosedTightBow amplitude=100
+#include "Include/Hihat_ClosedEdge.sfz"
+<master> seq_length=4 key=$hihatClosedTightEdge amplitude=100
+#include "Include/Hihat_ClosedEdge.sfz"
+<master> seq_length=4 key=$hihatClosedTip amplitude=100
+#include "Include/Hihat_ClosedEdge.sfz"
+<master> seq_length=2 key=$hihatSplash amplitude=100
+#include "Include/Hihat_Pedal.sfz"
+<master> seq_length=2 key=$hihatFoot1 amplitude=100
+#include "Include/Hihat_Pedal.sfz"
+<master> seq_length=2 key=$hihatFoot2 amplitude=100
+#include "Include/Hihat_Pedal.sfz"
+
+<master> seq_length=4 key=$rideBow amplitude=100
 #include "Include/Ride_Bow.sfz"
-
-<master> seq_length=2 key=$Ride_Bell amplitude=100
+<master> seq_length=2 key=$rideBell amplitude=100
 #include "Include/Ride_Bell.sfz"
-
-<master> seq_length=2 key=$Ride_Edge amplitude=100
+<master> seq_length=2 key=$rideEdge amplitude=100
 #include "Include/Ride_Edge.sfz"
 
-<master> seq_length=2 key=$Crash1_Edge amplitude=40
+<master> seq_length=2 key=$crash1Edge amplitude=40
 #include "Include/Crash1_Edge.sfz"
 
-<master> seq_length=2 key=$Crash2_Edge amplitude=30
+<master> seq_length=2 key=$crash2Edge amplitude=30
 #include "Include/Crash2_Edge.sfz"
 
-<master> seq_length=2 key=$Crash3_Edge amplitude=100
+<master> seq_length=2 key=$crash3Edge amplitude=100
 #include "Include/Crash3_Edge.sfz"
