@@ -1,7 +1,7 @@
 // === Articulação: Snare_Edge ===
 
 // --- Mic: Overhead_L ---
-<group> seq_position=1 // Round-Robin: A
+<group> seq_position=1 output=7 // Round-Robin: A
 <region> sample=Snare_Edge_A_vel01_mic-Overhead_L.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_A_vel02_mic-Overhead_L.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_A_vel03_mic-Overhead_L.wav lovel=20 hivel=29
@@ -14,7 +14,7 @@
 <region> sample=Snare_Edge_A_vel10_mic-Overhead_L.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_A_vel11_mic-Overhead_L.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_A_vel12_mic-Overhead_L.wav lovel=110 hivel=127
-<group> seq_position=2 // Round-Robin: B
+<group> seq_position=2 output=7 // Round-Robin: B
 <region> sample=Snare_Edge_B_vel01_mic-Overhead_L.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_B_vel02_mic-Overhead_L.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_B_vel03_mic-Overhead_L.wav lovel=20 hivel=29
@@ -27,7 +27,7 @@
 <region> sample=Snare_Edge_B_vel10_mic-Overhead_L.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_B_vel11_mic-Overhead_L.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_B_vel12_mic-Overhead_L.wav lovel=110 hivel=127
-<group> seq_position=3 // Round-Robin: C
+<group> seq_position=3 output=7 // Round-Robin: C
 <region> sample=Snare_Edge_C_vel01_mic-Overhead_L.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_C_vel02_mic-Overhead_L.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_C_vel03_mic-Overhead_L.wav lovel=20 hivel=29
@@ -40,7 +40,7 @@
 <region> sample=Snare_Edge_C_vel10_mic-Overhead_L.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_C_vel11_mic-Overhead_L.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_C_vel12_mic-Overhead_L.wav lovel=110 hivel=127
-<group> seq_position=4 // Round-Robin: D
+<group> seq_position=4 output=7 // Round-Robin: D
 <region> sample=Snare_Edge_D_vel01_mic-Overhead_L.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_D_vel02_mic-Overhead_L.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_D_vel03_mic-Overhead_L.wav lovel=20 hivel=29
@@ -55,7 +55,7 @@
 <region> sample=Snare_Edge_D_vel12_mic-Overhead_L.wav lovel=110 hivel=127
 
 // --- Mic: Overhead_R ---
-<group> seq_position=1 // Round-Robin: A
+<group> seq_position=1 output=7 // Round-Robin: A
 <region> sample=Snare_Edge_A_vel01_mic-Overhead_R.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_A_vel02_mic-Overhead_R.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_A_vel03_mic-Overhead_R.wav lovel=20 hivel=29
@@ -68,7 +68,7 @@
 <region> sample=Snare_Edge_A_vel10_mic-Overhead_R.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_A_vel11_mic-Overhead_R.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_A_vel12_mic-Overhead_R.wav lovel=110 hivel=127
-<group> seq_position=2 // Round-Robin: B
+<group> seq_position=2 output=7 // Round-Robin: B
 <region> sample=Snare_Edge_B_vel01_mic-Overhead_R.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_B_vel02_mic-Overhead_R.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_B_vel03_mic-Overhead_R.wav lovel=20 hivel=29
@@ -81,7 +81,7 @@
 <region> sample=Snare_Edge_B_vel10_mic-Overhead_R.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_B_vel11_mic-Overhead_R.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_B_vel12_mic-Overhead_R.wav lovel=110 hivel=127
-<group> seq_position=3 // Round-Robin: C
+<group> seq_position=3 output=7 // Round-Robin: C
 <region> sample=Snare_Edge_C_vel01_mic-Overhead_R.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_C_vel02_mic-Overhead_R.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_C_vel03_mic-Overhead_R.wav lovel=20 hivel=29
@@ -94,7 +94,7 @@
 <region> sample=Snare_Edge_C_vel10_mic-Overhead_R.wav lovel=90 hivel=99
 <region> sample=Snare_Edge_C_vel11_mic-Overhead_R.wav lovel=100 hivel=109
 <region> sample=Snare_Edge_C_vel12_mic-Overhead_R.wav lovel=110 hivel=127
-<group> seq_position=4 // Round-Robin: D
+<group> seq_position=4 output=7 // Round-Robin: D
 <region> sample=Snare_Edge_D_vel01_mic-Overhead_R.wav lovel=0 hivel=9
 <region> sample=Snare_Edge_D_vel02_mic-Overhead_R.wav lovel=10 hivel=19
 <region> sample=Snare_Edge_D_vel03_mic-Overhead_R.wav lovel=20 hivel=29
