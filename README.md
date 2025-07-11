@@ -27,7 +27,7 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 ## Características
 
 - [x] Round Robins (variações alternadas) `seq_length=N` & `seq_position=N`
-- [x] Mapeamento MIDI `#include "Midimap/General Midi.txt"`
+- [x] Mapeamento MIDI `#include "Midimap/SD3.txt"`
     - [x] SD3 *(Superior Drummer 3)*
     - [ ] General MIDI
 - [ ] Controle de chimbal via MIDI CC#
