@@ -28,8 +28,8 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 
 - [x] Round Robins (variações alternadas) `seq_length=N` & `seq_position=N`
 - [x] Mapeamento MIDI `#include "Midimap/General Midi.txt"`
-    - [x] General MIDI
-    - [ ] Superior Drummer
+    - [x] SD3 *(Superior Drummer 3)*
+    - [ ] General MIDI
 - [ ] Controle de chimbal via MIDI CC#
 - [x] Pré Mixagem `amplitude=N`
 - [ ] Saídas (8 canais) `output=N`
