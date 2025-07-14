@@ -1,3 +1,4 @@
+label_cc4=Hihat Pedal
 label_cc7=Volume
 label_cc10=Pan
 label_cc11=Expression

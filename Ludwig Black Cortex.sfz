@@ -1,6 +1,6 @@
 // Ludwing Black Cortex
 // https://github.com/samuelsantanaoficial/LudwigBlackCortex.git
-// Version: 1.1.0
+// Version: 2.0.0
 
 <control> image=ui/background.png image_controls=ui/controls.png default_path=Samples/
 
@@ -80,6 +80,11 @@
 #include "Include/Hihat_Pedal.sfz"
 <master> seq_length=2 key=$hihatFoot2 amplitude=100
 #include "Include/Hihat_Pedal.sfz"
+
+<master> seq_length=2 key=$hihatCC4Edgge amplitude=100
+#include "Include/Hihat_CC4Edge.sfz"
+<master> seq_length=2 key=$hihatCC4Bow amplitude=100
+#include "Include/Hihat_CCBow.sfz"
 
 <master> seq_length=4 key=$rideBow amplitude=100
 #include "Include/Ride_Bow.sfz"
