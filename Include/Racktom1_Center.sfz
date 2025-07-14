@@ -85,7 +85,7 @@
 <region> sample=Racktom1_Center_D_vel09_mic-Overhead_R.wav lovel=112 hivel=127
 
 // --- Mic: Racktom_1 ---
-<group> seq_position=1 // Round-Robin: A
+<group> seq_position=1 output=3 // Round-Robin: A
 <region> sample=Racktom1_Center_A_vel01_mic-Racktom_1.wav lovel=0 hivel=13
 <region> sample=Racktom1_Center_A_vel02_mic-Racktom_1.wav lovel=14 hivel=27
 <region> sample=Racktom1_Center_A_vel03_mic-Racktom_1.wav lovel=28 hivel=41
@@ -95,7 +95,7 @@
 <region> sample=Racktom1_Center_A_vel07_mic-Racktom_1.wav lovel=84 hivel=97
 <region> sample=Racktom1_Center_A_vel08_mic-Racktom_1.wav lovel=98 hivel=111
 <region> sample=Racktom1_Center_A_vel09_mic-Racktom_1.wav lovel=112 hivel=127
-<group> seq_position=2 // Round-Robin: B
+<group> seq_position=2 output=3 // Round-Robin: B
 <region> sample=Racktom1_Center_B_vel01_mic-Racktom_1.wav lovel=0 hivel=13
 <region> sample=Racktom1_Center_B_vel02_mic-Racktom_1.wav lovel=14 hivel=27
 <region> sample=Racktom1_Center_B_vel03_mic-Racktom_1.wav lovel=28 hivel=41
@@ -105,7 +105,7 @@
 <region> sample=Racktom1_Center_B_vel07_mic-Racktom_1.wav lovel=84 hivel=97
 <region> sample=Racktom1_Center_B_vel08_mic-Racktom_1.wav lovel=98 hivel=111
 <region> sample=Racktom1_Center_B_vel09_mic-Racktom_1.wav lovel=112 hivel=127
-<group> seq_position=3 // Round-Robin: C
+<group> seq_position=3 output=3 // Round-Robin: C
 <region> sample=Racktom1_Center_C_vel01_mic-Racktom_1.wav lovel=0 hivel=13
 <region> sample=Racktom1_Center_C_vel02_mic-Racktom_1.wav lovel=14 hivel=27
 <region> sample=Racktom1_Center_C_vel03_mic-Racktom_1.wav lovel=28 hivel=41
@@ -115,7 +115,7 @@
 <region> sample=Racktom1_Center_C_vel07_mic-Racktom_1.wav lovel=84 hivel=97
 <region> sample=Racktom1_Center_C_vel08_mic-Racktom_1.wav lovel=98 hivel=111
 <region> sample=Racktom1_Center_C_vel09_mic-Racktom_1.wav lovel=112 hivel=127
-<group> seq_position=4 // Round-Robin: D
+<group> seq_position=4 output=3 // Round-Robin: D
 <region> sample=Racktom1_Center_D_vel01_mic-Racktom_1.wav lovel=0 hivel=13
 <region> sample=Racktom1_Center_D_vel02_mic-Racktom_1.wav lovel=14 hivel=27
 <region> sample=Racktom1_Center_D_vel03_mic-Racktom_1.wav lovel=28 hivel=41
