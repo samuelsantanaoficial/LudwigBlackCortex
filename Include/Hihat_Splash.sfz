@@ -15,13 +15,13 @@
 <region> sample=Hihat_Splash_B_vel05_mic-Hihat.wav lovel=100 hivel=127
 
 // --- Mic: Overhead_L ---
-<group> group=1 off_by=1 seq_position=1 output=6 pan=-100 // Round-Robin: A
+<group> group=1 off_by=1 seq_position=1 output=5 pan=-100 // Round-Robin: A
 <region> sample=Hihat_Splash_A_vel01_mic-Overhead_L.wav lovel=0 hivel=24
 <region> sample=Hihat_Splash_A_vel02_mic-Overhead_L.wav lovel=25 hivel=49
 <region> sample=Hihat_Splash_A_vel03_mic-Overhead_L.wav lovel=50 hivel=74
 <region> sample=Hihat_Splash_A_vel04_mic-Overhead_L.wav lovel=75 hivel=99
 <region> sample=Hihat_Splash_A_vel05_mic-Overhead_L.wav lovel=100 hivel=127
-<group> group=1 off_by=1 seq_position=2 output=6 pan=-100 // Round-Robin: B
+<group> group=1 off_by=1 seq_position=2 output=5 pan=-100 // Round-Robin: B
 <region> sample=Hihat_Splash_B_vel01_mic-Overhead_L.wav lovel=0 hivel=24
 <region> sample=Hihat_Splash_B_vel02_mic-Overhead_L.wav lovel=25 hivel=49
 <region> sample=Hihat_Splash_B_vel03_mic-Overhead_L.wav lovel=50 hivel=74
@@ -29,13 +29,13 @@
 <region> sample=Hihat_Splash_B_vel05_mic-Overhead_L.wav lovel=100 hivel=127
 
 // --- Mic: Overhead_R ---
-<group> group=1 off_by=1 seq_position=1 output=6 pan=100 // Round-Robin: A
+<group> group=1 off_by=1 seq_position=1 output=5 pan=100 // Round-Robin: A
 <region> sample=Hihat_Splash_A_vel01_mic-Overhead_R.wav lovel=0 hivel=24
 <region> sample=Hihat_Splash_A_vel02_mic-Overhead_R.wav lovel=25 hivel=49
 <region> sample=Hihat_Splash_A_vel03_mic-Overhead_R.wav lovel=50 hivel=74
 <region> sample=Hihat_Splash_A_vel04_mic-Overhead_R.wav lovel=75 hivel=99
 <region> sample=Hihat_Splash_A_vel05_mic-Overhead_R.wav lovel=100 hivel=127
-<group> group=1 off_by=1 seq_position=2 output=6 pan=100 // Round-Robin: B
+<group> group=1 off_by=1 seq_position=2 output=5 pan=100 // Round-Robin: B
 <region> sample=Hihat_Splash_B_vel01_mic-Overhead_R.wav lovel=0 hivel=24
 <region> sample=Hihat_Splash_B_vel02_mic-Overhead_R.wav lovel=25 hivel=49
 <region> sample=Hihat_Splash_B_vel03_mic-Overhead_R.wav lovel=50 hivel=74

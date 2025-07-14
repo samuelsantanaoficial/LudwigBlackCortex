@@ -1,7 +1,7 @@
 // === Articulação: Racktom3_Center ===
 
 // --- Mic: Overhead_L ---
-<group> seq_position=1 output=6 pan=-100// Round-Robin: A
+<group> seq_position=1 output=5 pan=-100// Round-Robin: A
 <region> sample=Racktom3_Center_A_vel01_mic-Overhead_L.wav lovel=0 hivel=13
 <region> sample=Racktom3_Center_A_vel02_mic-Overhead_L.wav lovel=14 hivel=27
 <region> sample=Racktom3_Center_A_vel03_mic-Overhead_L.wav lovel=28 hivel=41
@@ -11,7 +11,7 @@
 <region> sample=Racktom3_Center_A_vel07_mic-Overhead_L.wav lovel=84 hivel=97
 <region> sample=Racktom3_Center_A_vel08_mic-Overhead_L.wav lovel=98 hivel=111
 <region> sample=Racktom3_Center_A_vel09_mic-Overhead_L.wav lovel=112 hivel=127
-<group> seq_position=2 output=6 pan=-100// Round-Robin: B
+<group> seq_position=2 output=5 pan=-100// Round-Robin: B
 <region> sample=Racktom3_Center_B_vel01_mic-Overhead_L.wav lovel=0 hivel=13
 <region> sample=Racktom3_Center_B_vel02_mic-Overhead_L.wav lovel=14 hivel=27
 <region> sample=Racktom3_Center_B_vel03_mic-Overhead_L.wav lovel=28 hivel=41
@@ -23,7 +23,7 @@
 <region> sample=Racktom3_Center_B_vel09_mic-Overhead_L.wav lovel=112 hivel=127
 
 // --- Mic: Overhead_R ---
-<group> seq_position=1 output=6 pan=100// Round-Robin: A
+<group> seq_position=1 output=5 pan=100// Round-Robin: A
 <region> sample=Racktom3_Center_A_vel01_mic-Overhead_R.wav lovel=0 hivel=13
 <region> sample=Racktom3_Center_A_vel02_mic-Overhead_R.wav lovel=14 hivel=27
 <region> sample=Racktom3_Center_A_vel03_mic-Overhead_R.wav lovel=28 hivel=41
@@ -33,7 +33,7 @@
 <region> sample=Racktom3_Center_A_vel07_mic-Overhead_R.wav lovel=84 hivel=97
 <region> sample=Racktom3_Center_A_vel08_mic-Overhead_R.wav lovel=98 hivel=111
 <region> sample=Racktom3_Center_A_vel09_mic-Overhead_R.wav lovel=112 hivel=127
-<group> seq_position=2 output=6 pan=100// Round-Robin: B
+<group> seq_position=2 output=5 pan=100// Round-Robin: B
 <region> sample=Racktom3_Center_B_vel01_mic-Overhead_R.wav lovel=0 hivel=13
 <region> sample=Racktom3_Center_B_vel02_mic-Overhead_R.wav lovel=14 hivel=27
 <region> sample=Racktom3_Center_B_vel03_mic-Overhead_R.wav lovel=28 hivel=41

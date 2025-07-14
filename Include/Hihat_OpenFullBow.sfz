@@ -25,7 +25,7 @@
 <region> sample=Hihat_OpenFullBow_B_vel10_mic-Hihat.wav lovel=108 hivel=127
 
 // --- Mic: Overhead_L ---
-<group> off_by=1 seq_position=1 output=6 pan=-100 // Round-Robin: A
+<group> off_by=1 seq_position=1 output=5 pan=-100 // Round-Robin: A
 <region> sample=Hihat_OpenFullBow_A_vel01_mic-Overhead_L.wav lovel=0 hivel=11
 <region> sample=Hihat_OpenFullBow_A_vel02_mic-Overhead_L.wav lovel=12 hivel=23
 <region> sample=Hihat_OpenFullBow_A_vel03_mic-Overhead_L.wav lovel=24 hivel=35
@@ -36,7 +36,7 @@
 <region> sample=Hihat_OpenFullBow_A_vel08_mic-Overhead_L.wav lovel=84 hivel=95
 <region> sample=Hihat_OpenFullBow_A_vel09_mic-Overhead_L.wav lovel=96 hivel=107
 <region> sample=Hihat_OpenFullBow_A_vel10_mic-Overhead_L.wav lovel=108 hivel=127
-<group> off_by=1 seq_position=2 output=6 pan=-100 // Round-Robin: B
+<group> off_by=1 seq_position=2 output=5 pan=-100 // Round-Robin: B
 <region> sample=Hihat_OpenFullBow_B_vel01_mic-Overhead_L.wav lovel=0 hivel=11
 <region> sample=Hihat_OpenFullBow_B_vel02_mic-Overhead_L.wav lovel=12 hivel=23
 <region> sample=Hihat_OpenFullBow_B_vel03_mic-Overhead_L.wav lovel=24 hivel=35
@@ -49,7 +49,7 @@
 <region> sample=Hihat_OpenFullBow_B_vel10_mic-Overhead_L.wav lovel=108 hivel=127
 
 // --- Mic: Overhead_R ---
-<group> off_by=1 seq_position=1 output=6 pan=100 // Round-Robin: A
+<group> off_by=1 seq_position=1 output=5 pan=100 // Round-Robin: A
 <region> sample=Hihat_OpenFullBow_A_vel01_mic-Overhead_R.wav lovel=0 hivel=11
 <region> sample=Hihat_OpenFullBow_A_vel02_mic-Overhead_R.wav lovel=12 hivel=23
 <region> sample=Hihat_OpenFullBow_A_vel03_mic-Overhead_R.wav lovel=24 hivel=35
@@ -60,7 +60,7 @@
 <region> sample=Hihat_OpenFullBow_A_vel08_mic-Overhead_R.wav lovel=84 hivel=95
 <region> sample=Hihat_OpenFullBow_A_vel09_mic-Overhead_R.wav lovel=96 hivel=107
 <region> sample=Hihat_OpenFullBow_A_vel10_mic-Overhead_R.wav lovel=108 hivel=127
-<group> off_by=1 seq_position=2 output=6 pan=100 // Round-Robin: B
+<group> off_by=1 seq_position=2 output=5 pan=100 // Round-Robin: B
 <region> sample=Hihat_OpenFullBow_B_vel01_mic-Overhead_R.wav lovel=0 hivel=11
 <region> sample=Hihat_OpenFullBow_B_vel02_mic-Overhead_R.wav lovel=12 hivel=23
 <region> sample=Hihat_OpenFullBow_B_vel03_mic-Overhead_R.wav lovel=24 hivel=35
