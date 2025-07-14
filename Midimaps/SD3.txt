@@ -41,6 +41,8 @@
 #define $hihatSplash 20
 #define $hihatFoot2 23
 #define $hihatFoot1 21
+#define $hihatCC4Bow 8
+#define $hihatCC4Edgge 7
 
 // RIDE CYMBAL
 #define $rideBow 51
@@ -90,3 +92,5 @@ label_key61=Hihat Closed Bow
 label_key62=Hihat Closed Edge
 label_key63=Hihat Closed Bow
 label_key64=Hihat Open 1 Edge
+label_key8=Hihat CC4 Bow
+label_key7=Hihat CC4 Edge
