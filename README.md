@@ -1,21 +1,23 @@
 # Ludwig Black Cortex.sfz
 
-## BAIXE [AQUI](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases)
+## Baixe [AQUI](https://github.com/samuelsantanaoficial/LudwigBlackCortex/releases)
+
+Confira o [CHANGELOG](CHANGELOG.md)
 
 ## Sobre
 
-1,68 GB de samples de áudio WAV, 24 bits, 44.100 Hz, de uma bateria Ludwig SuperClassic Black Cortex do final da década de 1970. Sete cascos de cinco camadas de bordo americano com uma camada central de choupo. Audios por; [Tchackpoum](https://www.tchackpoum.com/).
+**1,68 GB** de samples de áudio *WAV, 24 bits, 44.100 Hz*, de uma bateria **Ludwig SuperClassic Black Cortex** do final da década de *1970*. Sete cascos de cinco camadas de bordo americano com uma camada central de choupo. Audios por; [**Tchackpoum**](https://www.tchackpoum.com/).
 
 > Veja o vídeo demonstrativo [aqui](https://www.youtube.com/watch?v=KRnmregWpho).
 
 | Instrumento    | Marca                   | Tamanho  |
 |:-------------- |:----------------------- |:-------- |
-| Kick           | Ludwig Super Classic    | 22"x14"  |
-| Snare          | Ludwig Super Classic    | 13"x6.5" |
-| Racktom 2      | Ludwig Super Classic    | 13"x9"   |
-| Racktom 3      | Ludwig Super Classic    | 14"x10"  |
-| Floortom 1     | Ludwig Super Classic    | 16"x16"  |
-| Floortom 2     | Ludwig Super Classic    | 18"x18"  |
+| Kick           | Ludwig Super Classic    | 22"×14"  |
+| Snare          | Ludwig Super Classic    | 13"×6.5" |
+| Racktom 2      | Ludwig Super Classic    | 13"×9"   |
+| Racktom 3      | Ludwig Super Classic    | 14"×10"  |
+| Floortom 1     | Ludwig Super Classic    | 16"×16"  |
+| Floortom 2     | Ludwig Super Classic    | 18"×18"  |
 | Hihat Cymbal   | Istanbul Agop Signature | 13"      |
 | Ride Cymbal    | Istanbul Agop Signature | 22"      |
 | Crash Cymbal 1 | Sabian                  | 14"      |
@@ -26,18 +28,17 @@ Gravado e editado com o software de áudio [Cockos Reaper](https://www.reaper.fm
 
 ## Características
 
-- [x] Round Robins (variações alternadas) `seq_length=N` & `seq_position=N`
-- [x] Mapeamento MIDI `#include "Midimap/SD3.txt"`
+- [x] Round Robins (variações alternadas).
+- [x] Mapeamento MIDI
     - [x] SD3 *(Superior Drummer 3)*
-    - [ ] General MIDI
-- [ ] Controle de chimbal via MIDI CC#
-- [x] Pré Mixagem `amplitude=N`
-- [ ] Saídas (8 canais) `output=N`
-- [x] Interface gráfica no sfizz
-    - [x] Wallpaper na aba Home
-    - [x] Wallpaper na aba Controls
-    - [x] Botões giratórios (Knobs) `label_ccN=Tune (...)`
+    - [ ] GM *(General MIDI)*
+- [ ] Multicanal 
+- [x] sfizz
+    - [x] Wallpaper na aba Home e Controls
+    - [x] Botões giratórios (Knobs CC)
         - [x] Volume
-        - [x] Pan (panorama)
+        - [x] Pan
         - [x] Expressão
-        - [x] Afinação (Kick, Snare, Toms) `tune_onccN=512`
+        - [x] Afinação (Kick, Snare, Toms)
+- [ ] Controle de chimbal via MIDI CC4
+- [ ] Pré Mixagem
