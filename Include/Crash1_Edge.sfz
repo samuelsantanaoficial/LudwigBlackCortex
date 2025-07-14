@@ -1,7 +1,7 @@
 // === Articulação: Crash1_Edge ===
 
 // --- Mic: Overhead_L ---
-<group> seq_position=1 output=7 //  Round-Robin: A
+<group> seq_position=1 output=6 //  Round-Robin: A
 <region> sample=Crash1_Edge_A_vel01_mic-Overhead_L.wav lovel=0 hivel=8
 <region> sample=Crash1_Edge_A_vel02_mic-Overhead_L.wav lovel=9 hivel=17
 <region> sample=Crash1_Edge_A_vel03_mic-Overhead_L.wav lovel=18 hivel=26
@@ -16,7 +16,7 @@
 <region> sample=Crash1_Edge_A_vel12_mic-Overhead_L.wav lovel=99 hivel=107
 <region> sample=Crash1_Edge_A_vel13_mic-Overhead_L.wav lovel=108 hivel=116
 <region> sample=Crash1_Edge_A_vel14_mic-Overhead_L.wav lovel=117 hivel=127
-<group> seq_position=2 output=7 //  Round-Robin: B
+<group> seq_position=2 output=6 //  Round-Robin: B
 <region> sample=Crash1_Edge_B_vel01_mic-Overhead_L.wav lovel=0 hivel=8
 <region> sample=Crash1_Edge_B_vel02_mic-Overhead_L.wav lovel=9 hivel=17
 <region> sample=Crash1_Edge_B_vel03_mic-Overhead_L.wav lovel=18 hivel=26
@@ -33,7 +33,7 @@
 <region> sample=Crash1_Edge_B_vel14_mic-Overhead_L.wav lovel=117 hivel=127
 
 // --- Mic: Overhead_R ---
-<group> seq_position=1 output=7 //  Round-Robin: A
+<group> seq_position=1 output=6 //  Round-Robin: A
 <region> sample=Crash1_Edge_A_vel01_mic-Overhead_R.wav lovel=0 hivel=8
 <region> sample=Crash1_Edge_A_vel02_mic-Overhead_R.wav lovel=9 hivel=17
 <region> sample=Crash1_Edge_A_vel03_mic-Overhead_R.wav lovel=18 hivel=26
@@ -48,7 +48,7 @@
 <region> sample=Crash1_Edge_A_vel12_mic-Overhead_R.wav lovel=99 hivel=107
 <region> sample=Crash1_Edge_A_vel13_mic-Overhead_R.wav lovel=108 hivel=116
 <region> sample=Crash1_Edge_A_vel14_mic-Overhead_R.wav lovel=117 hivel=127
-<group> seq_position=2 output=7 //  Round-Robin: B
+<group> seq_position=2 output=6 //  Round-Robin: B
 <region> sample=Crash1_Edge_B_vel01_mic-Overhead_R.wav lovel=0 hivel=8
 <region> sample=Crash1_Edge_B_vel02_mic-Overhead_R.wav lovel=9 hivel=17
 <region> sample=Crash1_Edge_B_vel03_mic-Overhead_R.wav lovel=18 hivel=26
