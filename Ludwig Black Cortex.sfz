@@ -84,7 +84,7 @@
 <master> seq_length=2 key=$hihatCC4Edgge amplitude=100
 #include "Include/Hihat_CC4Edge.sfz"
 <master> seq_length=2 key=$hihatCC4Bow amplitude=100
-#include "Include/Hihat_CCBow.sfz"
+#include "Include/Hihat_CC4Bow.sfz"
 
 <master> seq_length=4 key=$rideBow amplitude=100
 #include "Include/Ride_Bow.sfz"

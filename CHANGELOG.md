@@ -2,12 +2,14 @@
 
 Todas as mudanças notáveis deste projeto serão documentadas aqui.
 
-## [1.2.1] - 2025-07
+## [2.0.1] - 2025-07
 
 ### Adicionado
 - Arquivo `Midimaps/SD3.txt` e suas principais articulações.
 - Arquivo `CHANGELOG.md`.
-- Multicanal - 8 outputs.
+- MIDI CC4 Pedal Hihat
+- Multicanal - 6 outputs.
+- Arquivos MIDI de groove ``.
 
 ### Alterado
 - Pasta `MIDI Files/` reorganizada para especificar o MIDI MAP utilizar.
