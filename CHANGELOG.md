@@ -2,7 +2,7 @@
 
 Todas as mudanças notáveis deste projeto serão documentadas aqui.
 
-## [2.0.1] - 2025-07
+## [2.0.0] - 2025-07
 
 ### Adicionado
 - Arquivo `Midimaps/SD3.txt` e suas principais articulações.
